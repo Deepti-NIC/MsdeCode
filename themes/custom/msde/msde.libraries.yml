@@ -1,0 +1,18 @@
+# msde.libraries.yml (multiple libraries can be added to a libraries.yml file.)
+msde-styling:
+  css:
+    theme:
+      css/site.css: {}
+      css/site-responsive.css: {}
+msde-scripts:
+  js: 
+    js/custom.js: {}
+    js/theme.js: {}
+    
+  dependencies:
+    - core/jquery
+    - core/drupal
+    - core/drupalSettings
+jquery-custom:
+  js:
+   js/jquery.min-3.6.js: { weight: -20 }    

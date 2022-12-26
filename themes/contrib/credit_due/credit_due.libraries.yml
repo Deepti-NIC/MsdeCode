@@ -1,0 +1,14 @@
+global-styling:
+  version: VERSION
+  css:
+    base:
+      css/base/style.css: {}
+      css/base/custom.css: {}
+      fonts/dashicons/icon-font/css/dashicons.css: {}
+toolbar-overrides:
+  js:
+    js/toolbar.js: {}
+    js/ui.js: {}
+  dependencies:
+      - core/jquery
+      - core/drupal

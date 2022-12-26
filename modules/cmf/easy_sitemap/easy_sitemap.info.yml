@@ -1,0 +1,6 @@
+name: Easy Sitemap
+description: To display the sitemap 
+package: CMF
+type: module
+version: 1.0
+core: 8.x

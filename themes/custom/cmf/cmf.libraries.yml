@@ -1,0 +1,21 @@
+# cmf.libraries.yml (multiple libraries can be added to a libraries.yml file.)
+cmf-styling:
+  version: 1.x
+  css:
+    theme:
+      css/site.css: {}
+cmf-scripts:
+  version: 1.x
+  js: 
+    js/jquery-accessibleMegaMenu.js: {}
+    js/megamenu.js: {}
+    js/jquery.flexslider.js: {}
+    js/accesibile.js: {}
+    js/accesibileswithcer.js: {}
+    js/site.js: {}
+    js/jquery.marquee.min.js: {}
+    js/jquery.pause.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
+    - core/drupalSettings

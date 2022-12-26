@@ -1,0 +1,6 @@
+.creditdue .node-form .fieldset:not(.fieldgroup) > legend, .creditdue .node-form fieldset:not(.fieldgroup) > legend{top:0;}
+.form-composite > legend, .label{float:left; padding-top:10px; }
+#edit-field-date-range-wrapper .container-inline{padding:0 20px; float:left;}
+#edit-field-date-range-wrapper h4{padding-top:10px;}
+form label{float:left; padding-right:20px;}
+.creditdue .node-form .field--name-title label{display:block!important;}

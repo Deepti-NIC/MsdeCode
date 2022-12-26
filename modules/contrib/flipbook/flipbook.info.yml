@@ -1,0 +1,13 @@
+name: Flipbook
+type: module
+description: 'Gives an Flipbook version Of the Uploaded Pdf'
+# core: '8.x'
+dependencies:
+  - options
+  - entity_reference
+configure: flipbook.chooseform
+# Information added by Drupal.org packaging script on 2018-02-14
+version: '8.x-1.0-alpha1'
+core: '8.x'
+project: 'flipbook'
+datestamp: 1518594193

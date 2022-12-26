@@ -1,0 +1,4 @@
+cmf_content.settings:
+  route_name: cmf_content.settings
+  title: CMF Site Settings
+  base_route: cmf_content.settings

@@ -1,0 +1,45 @@
+#cmf.info.yml
+name: CMF
+type: theme
+description: 'This is a sub theme of Classy.'
+core: 8.x
+
+# by adding global-styling and global-scripts here, the css/js files in the library become 
+# available to every page presented by the theme
+libraries:
+  - cmf/cmf-styling
+  - cmf/cmf-scripts
+  
+# Defines the base theme
+base theme: classy  
+
+# Regions
+regions:
+  language: Language
+  search: Search
+  header: Header
+  primary_menu: 'Primary menu'
+  secondary_menu: 'Secondary menu'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+  page_bottom_1: 'Page bottom 1'
+  page_bottom_2: 'Page bottom 2'
+  featured: Featured
+  highlighted: Highlighted
+  featured_top: 'Featured top'
+  breadcrumb: Breadcrumb
+  content: Content
+  sidebar_first: 'Sidebar first'
+  sidebar_second: 'Sidebar second'
+  sidebar_news: 'Sidebar news'
+  featured_bottom_first: 'Featured bottom first'
+  featured_bottom_second: 'Featured bottom second'
+  featured_bottom_third: 'Featured bottom third'
+  footer_first: 'Footer first'
+  footer_second: 'Footer second'
+  footer_third: 'Footer third'
+  footer_fourth: 'Footer fourth'
+  footer_fifth: 'Footer fifth'
+  footer_menu: 'Footer menu'
+  footer: Footer
+  last_update: 'last update'

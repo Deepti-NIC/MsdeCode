@@ -1,0 +1,55 @@
+#msde.info.yml
+name: msde Theme
+type: theme
+description: 'This is a sub theme of Classy.'
+core: 8.x
+
+# by adding global-styling and global-scripts here, the css/js files in the library become 
+# available to every page presented by the theme
+libraries:
+  - msde/msde-styling
+  - msde/msde-scripts
+  
+libraries-override:
+  core/jquery: msde/jquery-custom  
+# Defines the base theme
+base theme: classy  
+
+# Regions
+regions:
+  language: Language
+  cmf_search: 'CMF Search'
+  search: Search
+  header: Header
+  page_title: 'Page Title'
+  page_heading: 'Page Heading'
+  top_header: 'Top Header'
+  primary_menu: 'Primary menu'
+  secondary_menu: 'Secondary menu'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+  page_bottom_1: 'Page bottom 1'
+  page_bottom_2: 'Page bottom 2'
+  featured: Featured
+  highlighted: Highlighted
+  featured_top: 'Featured top'
+  breadcrumb: Breadcrumb
+  content: Content
+  sidebar_first: 'Sidebar first'
+  sidebar_second: 'Sidebar second'
+  sidebar_news: 'Sidebar news'
+  featured_bottom_first: 'Featured bottom first'
+  featured_bottom_second: 'Featured bottom second'
+  featured_bottom_third: 'Featured bottom third'
+  footer_first: 'Footer first'
+  footer_second: 'Footer second'
+  footer_third: 'Footer third'
+  footer_fourth: 'Footer fourth'
+  footer_fifth: 'Footer fifth'
+  footer_menu: 'Footer menu'
+  footer: 'Footer'
+  tendar: 'Tender'
+  home_quick_tab: 'Home Quick Tab'
+  latest_update: 'Latest Updates'
+  video_gallery: 'Home Video Gallery'
+  home_about_content: 'Home About Us Content'

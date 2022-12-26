@@ -1,0 +1,28 @@
+# Hindi translation of Entity Reference Revisions (8.x-1.5)
+# Copyright (c) 2018 by the Hindi translation team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Entity Reference Revisions (8.x-1.5)\n"
+"POT-Creation-Date: 2018-05-25 09:43+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Language-Team: Hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "Value"
+msgstr "मान"
+msgid "Type"
+msgstr "प्रकार"
+msgid "Role"
+msgstr "भूमिका"
+msgid "Sort by"
+msgstr "क्रमबद्ध द्वारा"
+msgid "Default value"
+msgstr "डिफ़ॉल्ट मूल्य"
+msgid "Autocomplete"
+msgstr "स्वत: पूर्ण"
+msgid "View mode"
+msgstr "दृश्य प्रणाली"

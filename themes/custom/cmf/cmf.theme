@@ -1,0 +1,11 @@
+<?php
+/*
+ * @file
+ * code for CMF Content module
+*/
+
+//Adding language id to the body class
+function cmf_preprocess_html(&$variables) {
+  $language = \Drupal::languageManager()->getCurrentLanguage()->getId();
+  $variables['language'] = $language;
+}

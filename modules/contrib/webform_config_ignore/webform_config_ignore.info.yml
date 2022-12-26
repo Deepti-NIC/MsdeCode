@@ -1,0 +1,12 @@
+name: Webform Config Ignore
+type: module
+description: Ignores configuration imports and export of existing Webforms.
+# core: 8.x
+dependencies:
+  - config_filter:config_filter
+
+# Information added by Drupal.org packaging script on 2018-07-16
+version: '8.x-1.0'
+core: '8.x'
+project: 'webform_config_ignore'
+datestamp: 1531724024

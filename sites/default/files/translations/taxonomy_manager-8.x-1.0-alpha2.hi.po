@@ -1,0 +1,26 @@
+# Hindi translation of Taxonomy Manager (8.x-1.0-alpha2)
+# Copyright (c) 2018 by the Hindi translation team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Taxonomy Manager (8.x-1.0-alpha2)\n"
+"POT-Creation-Date: 2018-09-27 19:49+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Language-Team: Hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "Delete"
+msgstr "मिटायें"
+msgid "Taxonomy"
+msgstr "वर्गीकरण"
+msgid "Settings"
+msgstr "स्थापनायें"
+msgid "Export"
+msgstr "निर्यात करें।"
+msgid "Add"
+msgstr "जोड़ें"
+msgid "Vocabularies"
+msgstr "शब्दावलीया"
